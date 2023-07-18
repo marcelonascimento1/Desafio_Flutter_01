@@ -1,0 +1,28 @@
+{
+  "contatos": [
+    {
+    "id": "1",
+    "name": "Marcelo",
+    "status": "disponivel",
+    "street": "São Miguel"
+    },
+    {
+    "id": "1",
+    "name": "Roberta",
+    "status": "indisponivel",
+    "street": "São paulo"
+    },
+    {
+    "id": "1",
+    "name": "Matheus",
+    "status": "ocupado",
+    "street": "Vila Curuça"
+    },
+    {
+    "id": "1",
+    "name": "Pablo",
+    "status": "online",
+    "street": "Estados Unidos Da America"
+    }
+  ]
+}
